@@ -197,7 +197,6 @@ module.exports = {
     "url": "require('url')",
     "util": "require('util')",
     "zlib": "require('zlib')",
-    "pcsclite": "require('bindings')('pcsclite')",
     "nfc-pcsc": "require('nfc-pcsc')"
   },
   "resolve": {
